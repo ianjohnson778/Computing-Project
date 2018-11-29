@@ -1,0 +1,57 @@
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\Project.exe
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\Project.pdb
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.dll
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.xml
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Computing Project\Project\Project\Project\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Computing Project\Project\Project\Project\obj\x86\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Computing Project\Project\Project\Project\obj\x86\Debug\Project.csproj.CopyComplete
+D:\Computing Project\Project\Project\Project\obj\x86\Debug\Project.exe
+D:\Computing Project\Project\Project\Project\obj\x86\Debug\Project.pdb
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\Content\F1 Car Top-Down.xnb
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\Content\F1_Car.xnb
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\Content\Racing Tileset.xnb
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\Project.exe
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\Project.pdb
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.dll
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.xml
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\Computing Project\Project\Project\Project\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
+E:\Computing Project\Project\Project\Project\obj\x86\Debug\Project.csproj.CoreCompileInputs.cache
+E:\Computing Project\Project\Project\Project\obj\x86\Debug\Project.exe
+E:\Computing Project\Project\Project\Project\obj\x86\Debug\Project.pdb
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\Content\F1 Car Top-Down.xnb
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\Content\Racing Tileset.xnb
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\Content\racingMap.tmx
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\Content\Car.xnb
+D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\Content\marker.xnb
