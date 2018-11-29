@@ -16,8 +16,8 @@ namespace Project
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
-        int bufferWidth = 1280;
-        int bufferHight = 720;
+        int bufferWidth = 1920;
+        int bufferHight = 1080;
 
         Map map;
         Layer collision;

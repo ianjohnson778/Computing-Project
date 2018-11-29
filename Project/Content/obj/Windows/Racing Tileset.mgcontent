@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>D:/Computing Project/Project/Project/Project/Content/Racing Tileset.png</SourceFile>
+  <SourceFile>C:/Users/ianjo/Source/Repos/Computing-Project/Project/Content/Racing Tileset.png</SourceFile>
   <SourceTime>2018-09-26T14:10:07.9350998+01:00</SourceTime>
-  <DestFile>D:/Computing Project/Project/Project/Project/Content/bin/Windows/Racing Tileset.xnb</DestFile>
-  <DestTime>2018-09-27T14:50:56.6467309+01:00</DestTime>
+  <DestFile>C:/Users/ianjo/Source/Repos/Computing-Project/Project/Content/bin/Windows/Racing Tileset.xnb</DestFile>
+  <DestTime>2018-11-29T15:42:57.9529747+00:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

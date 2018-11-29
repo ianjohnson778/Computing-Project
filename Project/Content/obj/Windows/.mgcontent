@@ -4,8 +4,8 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/Computing Project/Project/Project/Project/Content/Racing Tileset.png</File>
-    <File>D:/Computing Project/Project/Project/Project/Content/Car.png</File>
-    <File>D:/Computing Project/Project/Project/Project/Content/marker.png</File>
+    <File>C:/Users/ianjo/Source/Repos/Computing-Project/Project/Content/Racing Tileset.png</File>
+    <File>C:/Users/ianjo/Source/Repos/Computing-Project/Project/Content/Car.png</File>
+    <File>C:/Users/ianjo/Source/Repos/Computing-Project/Project/Content/marker.png</File>
   </SourceFiles>
 </SourceFileCollection>

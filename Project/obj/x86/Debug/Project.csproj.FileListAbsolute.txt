@@ -55,3 +55,33 @@ D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\Content\Racin
 D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\Content\racingMap.tmx
 D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\Content\Car.xnb
 D:\Computing Project\Project\Project\Project\bin\Windows\x86\Debug\Content\marker.xnb
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\Content\F1 Car Top-Down.xnb
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\Content\Car.xnb
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\Content\marker.xnb
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\Content\Racing Tileset.xnb
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\Content\racingMap.tmx
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\Project.exe
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\Project.pdb
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\obj\x86\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\obj\x86\Debug\Project.csproj.CopyComplete
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\obj\x86\Debug\Project.exe
+C:\Users\ianjo\Source\Repos\Computing-Project\Project\obj\x86\Debug\Project.pdb
